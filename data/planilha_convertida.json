@@ -1,0 +1,2170 @@
+{
+    "KIT JANELA CORRER TOTAL  ": [
+        {
+            "codigo": "JCX2.120X150BCO",
+            "produto": "KIT JANELA 2 FOLHAS MOVEIS DE 1,20 X 1,50 BRANCO",
+            "valor_bruto": "177,78"
+        },
+        {
+            "codigo": "JCX2.120X150BZE",
+            "produto": "KIT JANELA 2 FOLHAS MOVEIS DE 1,20 X 1,50 BRONZE",
+            "valor_bruto": "166,93"
+        },
+        {
+            "codigo": "JCX2.120X150FCO",
+            "produto": "KIT JANELA 2 FOLHAS MOVEIS DE 1,20 X 1,50 FOSCO",
+            "valor_bruto": "189,46"
+        },
+        {
+            "codigo": "JCX2.120X150PTO",
+            "produto": "KIT JANELA 2 FOLHAS MOVEIS DE 1,20 X 1,50 PRETO",
+            "valor_bruto": "189,46"
+        },
+        {
+            "codigo": "JCX2.150X150BCO",
+            "produto": "KIT JANELA 2 FOLHAS MOVEIS DE 1,50 X 1,50 BRANCO",
+            "valor_bruto": "202,61"
+        },
+        {
+            "codigo": "JCX2.150X150BZE",
+            "produto": "KIT JANELA 2 FOLHAS MOVEIS DE 1,50 X 1,50 BRONZE",
+            "valor_bruto": "215,92"
+        },
+        {
+            "codigo": "JCX2.150X150FCO",
+            "produto": "KIT JANELA 2 FOLHAS MOVEIS DE 1,50 X 1,50 FOSCO",
+            "valor_bruto": "215,92"
+        },
+        {
+            "codigo": "JCX2.150X150PTO",
+            "produto": "KIT JANELA 2 FOLHAS MOVEIS DE 1,50 X 1,50 PRETO",
+            "valor_bruto": "215,92"
+        },
+        {
+            "codigo": "JCX2.180X150BCO",
+            "produto": "KIT JANELA 2 FOLHAS MOVEIS DE 1,80 X 1,50 BRANCO",
+            "valor_bruto": "227,44"
+        },
+        {
+            "codigo": "JCX2.180X150BZE",
+            "produto": "KIT JANELA 2 FOLHAS MOVEIS DE 1,80 X 1,50 BRONZE",
+            "valor_bruto": "242,4"
+        },
+        {
+            "codigo": "JCX2.180X150FCO",
+            "produto": "KIT JANELA 2 FOLHAS MOVEIS DE 1,80 X 1,50 FOSCO",
+            "valor_bruto": "242,4"
+        },
+        {
+            "codigo": "JCX2.180X150PTO",
+            "produto": "KIT JANELA 2 FOLHAS MOVEIS DE 1,80 X 1,50 PRETO",
+            "valor_bruto": "242,4"
+        },
+        {
+            "codigo": "JCX2.200X150BCO",
+            "produto": "KIT JANELA 2 FOLHAS MOVEIS DE 2,00 X 1,50 BRANCO",
+            "valor_bruto": "244,03"
+        },
+        {
+            "codigo": "JCX2.200X150BZE",
+            "produto": "KIT JANELA 2 FOLHAS MOVEIS DE 2,00 X 1,50 BRONZE",
+            "valor_bruto": "260,06"
+        },
+        {
+            "codigo": "JCX2.200X150FCO",
+            "produto": "KIT JANELA 2 FOLHAS MOVEIS DE 2,00 X 1,50 FOSCO",
+            "valor_bruto": "260,06"
+        },
+        {
+            "codigo": "JCX2.200X150PTO",
+            "produto": "KIT JANELA 2 FOLHAS MOVEIS DE 2,00 X 1,50 PRETO",
+            "valor_bruto": "260,06"
+        },
+        {
+            "codigo": "JCX3.150X150BCO",
+            "produto": "KIT JANELA 2 FOLHAS MOVEIS E 1 FIXO DE 1,50 X 1,50 BRANCO",
+            "valor_bruto": "228,28"
+        },
+        {
+            "codigo": "JCX3.150X150BZE",
+            "produto": "KIT JANELA 2 FOLHAS MOVEIS E 1 FIXO DE 1,50 X 1,50 BRONZE",
+            "valor_bruto": "228,28"
+        },
+        {
+            "codigo": "JCX3.150X150FCO",
+            "produto": "KIT JANELA 2 FOLHAS MOVEIS E 1 FIXO DE 1,50 X 1,50 FOSCO",
+            "valor_bruto": "228,28"
+        },
+        {
+            "codigo": "JCX3.150X150PTO",
+            "produto": "KIT JANELA 2 FOLHAS MOVEIS E 1 FIXO DE 1,50 X 1,50 PRETO",
+            "valor_bruto": "228,28"
+        },
+        {
+            "codigo": "JCX3.180X150BCO",
+            "produto": "KIT JANELA 2 FOLHAS MOVEIS E 1 FIXO DE 1,80 X 1,50 BRANCO",
+            "valor_bruto": "250,53"
+        },
+        {
+            "codigo": "JCX3.180X150BZE",
+            "produto": "KIT JANELA 2 FOLHAS MOVEIS E 1 FIXO DE 1,80 X 1,50 BRONZE",
+            "valor_bruto": "250,53"
+        },
+        {
+            "codigo": "JCX3.180X150FCO",
+            "produto": "KIT JANELA 2 FOLHAS MOVEIS E 1 FIXO DE 1,80 X 1,50 FOSCO",
+            "valor_bruto": "250,53"
+        },
+        {
+            "codigo": "JCX3.180X150PTO",
+            "produto": "KIT JANELA 2 FOLHAS MOVEIS E 1 FIXO DE 1,80 X 1,50 PRETO",
+            "valor_bruto": "250,53"
+        },
+        {
+            "codigo": "JCX3.200X150BCO",
+            "produto": "KIT JANELA 2 FOLHAS MOVEIS E 1 FIXO DE 2,00 X 1,50 BRANCO",
+            "valor_bruto": "265,36"
+        },
+        {
+            "codigo": "JCX3.200X150BZE",
+            "produto": "KIT JANELA 2 FOLHAS MOVEIS E 1 FIXO DE 2,00 X 1,50 BRONZE",
+            "valor_bruto": "265,36"
+        },
+        {
+            "codigo": "JCX3.200X150FCO",
+            "produto": "KIT JANELA 2 FOLHAS MOVEIS E 1 FIXO DE 2,00 X 1,50 FOSCO",
+            "valor_bruto": "265,36"
+        },
+        {
+            "codigo": "JCX3.200X150PTO",
+            "produto": "KIT JANELA 2 FOLHAS MOVEIS E 1 FIXO DE 2,00 X 1,50 PRETO",
+            "valor_bruto": "265,36"
+        },
+        {
+            "codigo": "JCX3.220X150BCO",
+            "produto": "KIT JANELA 2 FOLHAS MOVEIS E 1 FIXO DE 2,20 X 1,50 BRANCO",
+            "valor_bruto": "280,93"
+        },
+        {
+            "codigo": "JCX3.220X150BZE",
+            "produto": "KIT JANELA 2 FOLHAS MOVEIS E 1 FIXO DE 2,20 X 1,50 BRONZE",
+            "valor_bruto": "280,93"
+        },
+        {
+            "codigo": "JCX3.220X150FCO",
+            "produto": "KIT JANELA 2 FOLHAS MOVEIS E 1 FIXO DE 2,20 X 1,50 FOSCO",
+            "valor_bruto": "280,93"
+        },
+        {
+            "codigo": "JCX3.220X150PTO",
+            "produto": "KIT JANELA 2 FOLHAS MOVEIS E 1 FIXO DE 2,20 X 1,50 PRETO",
+            "valor_bruto": "280,93"
+        },
+        {
+            "codigo": "JCX3.240X150BCO",
+            "produto": "KIT JANELA 2 FOLHAS MOVEIS E 1 FIXO DE 2,40 X 1,50 BRANCO",
+            "valor_bruto": "323,59"
+        },
+        {
+            "codigo": "JCX3.240X150BZE",
+            "produto": "KIT JANELA 2 FOLHAS MOVEIS E 1 FIXO DE 2,40 X 1,50 BRONZE",
+            "valor_bruto": "344,85"
+        },
+        {
+            "codigo": "JCX3.240X150FCO",
+            "produto": "KIT JANELA 2 FOLHAS MOVEIS E 1 FIXO DE 2,40 X 1,50 FOSCO",
+            "valor_bruto": "344,85"
+        },
+        {
+            "codigo": "JCX3.240X150PTO",
+            "produto": "KIT JANELA 2 FOLHAS MOVEIS E 1 FIXO DE 2,40 X 1,50 PRETO",
+            "valor_bruto": "344,85"
+        },
+        {
+            "codigo": "JCX3.280X150BCO",
+            "produto": "KIT JANELA 2 FOLHAS MOVEIS E 1 FIXO DE 2,80 X 1,50 BRANCO",
+            "valor_bruto": "362,12"
+        },
+        {
+            "codigo": "JCX3.280X150BZE",
+            "produto": "KIT JANELA 2 FOLHAS MOVEIS E 1 FIXO DE 2,80 X 1,50 BRONZE",
+            "valor_bruto": "385,92"
+        },
+        {
+            "codigo": "JCX3.280X150FCO",
+            "produto": "KIT JANELA 2 FOLHAS MOVEIS E 1 FIXO DE 2,80 X 1,50 FOSCO",
+            "valor_bruto": "385,92"
+        },
+        {
+            "codigo": "JCX3.280X150PTO",
+            "produto": "KIT JANELA 2 FOLHAS MOVEIS E 1 FIXO DE 2,80 X 1,50 PRETO",
+            "valor_bruto": "385,92"
+        },
+        {
+            "codigo": "JCX3.300X150BCO",
+            "produto": "KIT JANELA 2 FOLHAS MOVEIS E 1 FIXO DE 3,00 X 1,50 BRANCO",
+            "valor_bruto": "381,42"
+        },
+        {
+            "codigo": "JCX3.300X150BZE",
+            "produto": "KIT JANELA 2 FOLHAS MOVEIS E 1 FIXO DE 3,00 X 1,50 BRONZE",
+            "valor_bruto": "406,49"
+        },
+        {
+            "codigo": "JCX3.300X150FCO",
+            "produto": "KIT JANELA 2 FOLHAS MOVEIS E 1 FIXO DE 3,00 X 1,50 FOSCO",
+            "valor_bruto": "406,49"
+        },
+        {
+            "codigo": "JCX3.300X150PTO",
+            "produto": "KIT JANELA 2 FOLHAS MOVEIS E 1 FIXO DE 3,00 X 1,50 PRETO",
+            "valor_bruto": "406,49"
+        },
+        {
+            "codigo": "JCX4.150X150BCO",
+            "produto": "KIT JANELA 4 FOLHAS MOVEIS DE 1,50 X 1,50 BRANCO",
+            "valor_bruto": "374,24"
+        },
+        {
+            "codigo": "JCX4.150X150BZE",
+            "produto": "KIT JANELA 4 FOLHAS MOVEIS DE 1,50 X 1,50 BRONZE",
+            "valor_bruto": "398,83"
+        },
+        {
+            "codigo": "JCX4.150X150FCO",
+            "produto": "KIT JANELA 4 FOLHAS MOVEIS DE 1,50 X 1,50 FOSCO",
+            "valor_bruto": "398,83"
+        },
+        {
+            "codigo": "JCX4.150X150PTO",
+            "produto": "KIT JANELA 4 FOLHAS MOVEIS DE 1,50 X 1,50 PRETO",
+            "valor_bruto": "398,83"
+        },
+        {
+            "codigo": "JCX4.180X150BCO",
+            "produto": "KIT JANELA 4 FOLHAS MOVEIS DE 1,80 X 1,50 BRANCO",
+            "valor_bruto": "425,95"
+        },
+        {
+            "codigo": "JCX4.180X150BZE",
+            "produto": "KIT JANELA 4 FOLHAS MOVEIS DE 1,80 X 1,50 BRONZE",
+            "valor_bruto": "453,95"
+        },
+        {
+            "codigo": "JCX4.180X150FCO",
+            "produto": "KIT JANELA 4 FOLHAS MOVEIS DE 1,80 X 1,50 FOSCO",
+            "valor_bruto": "453,95"
+        },
+        {
+            "codigo": "JCX4.180X150PTO",
+            "produto": "KIT JANELA 4 FOLHAS MOVEIS DE 1,80 X 1,50 PRETO",
+            "valor_bruto": "453,95"
+        },
+        {
+            "codigo": "JCX4.200X150BCO",
+            "produto": "KIT JANELA 4 FOLHAS MOVEIS DE 2,00 X 1,50 BRANCO",
+            "valor_bruto": "465,11"
+        },
+        {
+            "codigo": "JCX4.200X150BZE",
+            "produto": "KIT JANELA 4 FOLHAS MOVEIS DE 2,00 X 1,50 BRONZE",
+            "valor_bruto": "495,68"
+        },
+        {
+            "codigo": "JCX4.200X150FCO",
+            "produto": "KIT JANELA 4 FOLHAS MOVEIS DE 2,00 X 1,50 FOSCO",
+            "valor_bruto": "495,68"
+        },
+        {
+            "codigo": "JCX4.200X150PTO",
+            "produto": "KIT JANELA 4 FOLHAS MOVEIS DE 2,00 X 1,50 PRETO",
+            "valor_bruto": "495,68"
+        },
+        {
+            "codigo": "JCX4.220X150BCO",
+            "produto": "KIT JANELA 4 FOLHAS MOVEIS DE 2,20 X 1,50 BRANCO",
+            "valor_bruto": "494,84"
+        },
+        {
+            "codigo": "JCX4.220X150BZE",
+            "produto": "KIT JANELA 4 FOLHAS MOVEIS DE 2,20 X 1,50 BRONZE",
+            "valor_bruto": "527,37"
+        },
+        {
+            "codigo": "JCX4.220X150FCO",
+            "produto": "KIT JANELA 4 FOLHAS MOVEIS DE 2,20 X 1,50 FOSCO",
+            "valor_bruto": "527,37"
+        },
+        {
+            "codigo": "JCX4.220X150PTO",
+            "produto": "KIT JANELA 4 FOLHAS MOVEIS DE 2,20 X 1,50 PRETO",
+            "valor_bruto": "527,37"
+        },
+        {
+            "codigo": "JCX4.240X150BCO",
+            "produto": "KIT JANELA 4 FOLHAS MOVEIS DE 2,40 X 1,50 BRANCO",
+            "valor_bruto": "529,26"
+        },
+        {
+            "codigo": "JCX4.240X150BZE",
+            "produto": "KIT JANELA 4 FOLHAS MOVEIS DE 2,40 X 1,50 BRONZE",
+            "valor_bruto": "564,05"
+        },
+        {
+            "codigo": "JCX4.240X150FCO",
+            "produto": "KIT JANELA 4 FOLHAS MOVEIS DE 2,40 X 1,50 FOSCO",
+            "valor_bruto": "564,05"
+        },
+        {
+            "codigo": "JCX4.240X150PTO",
+            "produto": "KIT JANELA 4 FOLHAS MOVEIS DE 2,40 X 1,50 PRETO",
+            "valor_bruto": "564,05"
+        },
+        {
+            "codigo": "JCX4.280X150BCO",
+            "produto": "KIT JANELA 4 FOLHAS MOVEIS DE 2,80 X 1,50 BRANCO",
+            "valor_bruto": "598,13"
+        },
+        {
+            "codigo": "JCX4.280X150BZE",
+            "produto": "KIT JANELA 4 FOLHAS MOVEIS DE 2,80 X 1,50 BRONZE",
+            "valor_bruto": "637,45"
+        },
+        {
+            "codigo": "JCX4.280X150FCO",
+            "produto": "KIT JANELA 4 FOLHAS MOVEIS DE 2,80 X 1,50 FOSCO",
+            "valor_bruto": "637,45"
+        },
+        {
+            "codigo": "JCX4.280X150PTO",
+            "produto": "KIT JANELA 4 FOLHAS MOVEIS DE 2,80 X 1,50 PRETO",
+            "valor_bruto": "637,45"
+        },
+        {
+            "codigo": "JCX4.300X150BCO",
+            "produto": "KIT JANELA 4 FOLHAS MOVEIS DE 3,00 X 1,50 BRANCO",
+            "valor_bruto": "632,58"
+        },
+        {
+            "codigo": "JCX4.300X150BZE",
+            "produto": "KIT JANELA 4 FOLHAS MOVEIS DE 3,00 X 1,50 BRONZE",
+            "valor_bruto": "674,16"
+        },
+        {
+            "codigo": "JCX4.300X150FCO",
+            "produto": "KIT JANELA 4 FOLHAS MOVEIS DE 3,00 X 1,50 FOSCO",
+            "valor_bruto": "674,16"
+        },
+        {
+            "codigo": "JCX4.300X150PTO",
+            "produto": "KIT JANELA 4 FOLHAS MOVEIS DE 3,00 X 1,50 PRETO",
+            "valor_bruto": "674,16"
+        },
+        {
+            "codigo": "JCX4.350X150BZE",
+            "produto": "KIT JANELA 4 FOLHAS MOVEIS DE 3,50 X 1,50 BRONZE",
+            "valor_bruto": "692,95"
+        },
+        {
+            "codigo": "JCX6.150X150BCO",
+            "produto": "KIT JANELA 4 FOLHAS MOVEIS E 2 FIXO DE 1,50 X 1,50 BRANCO",
+            "valor_bruto": "454,8"
+        },
+        {
+            "codigo": "JCX6.150X150BZE",
+            "produto": "KIT JANELA 4 FOLHAS MOVEIS E 2 FIXO DE 1,50 X 1,50 BRONZE",
+            "valor_bruto": "484,69"
+        },
+        {
+            "codigo": "JCX6.150X150FCO",
+            "produto": "KIT JANELA 4 FOLHAS MOVEIS E 2 FIXO DE 1,50 X 1,50 FOSCO",
+            "valor_bruto": "484,69"
+        },
+        {
+            "codigo": "JCX6.150X150PTO",
+            "produto": "KIT JANELA 4 FOLHAS MOVEIS E 2 FIXO DE 1,50 X 1,50 PRETO",
+            "valor_bruto": "484,69"
+        },
+        {
+            "codigo": "JCX6.180X150BCO",
+            "produto": "KIT JANELA 4 FOLHAS MOVEIS E 2 FIXO DE 1,80 X 1,50 BRANCO",
+            "valor_bruto": "512,63"
+        },
+        {
+            "codigo": "JCX6.180X150BZE",
+            "produto": "KIT JANELA 4 FOLHAS MOVEIS E 2 FIXO DE 1,80 X 1,50 BRONZE",
+            "valor_bruto": "546,33"
+        },
+        {
+            "codigo": "JCX6.180X150FCO",
+            "produto": "KIT JANELA 4 FOLHAS MOVEIS E 2 FIXO DE 1,80 X 1,50 FOSCO",
+            "valor_bruto": "546,33"
+        },
+        {
+            "codigo": "JCX6.180X150PTO",
+            "produto": "KIT JANELA 4 FOLHAS MOVEIS E 2 FIXO DE 1,80 X 1,50 PRETO",
+            "valor_bruto": "546,33"
+        },
+        {
+            "codigo": "JCX6.200X150BCO",
+            "produto": "KIT JANELA 4 FOLHAS MOVEIS E 2 FIXO DE 2,00 X 1,50 BRANCO",
+            "valor_bruto": "551,24"
+        },
+        {
+            "codigo": "JCX6.200X150BZE",
+            "produto": "KIT JANELA 4 FOLHAS MOVEIS E 2 FIXO DE 2,00 X 1,50 BRONZE",
+            "valor_bruto": "587,47"
+        },
+        {
+            "codigo": "JCX6.200X150FCO",
+            "produto": "KIT JANELA 4 FOLHAS MOVEIS E 2 FIXO DE 2,00 X 1,50 FOSCO",
+            "valor_bruto": "587,47"
+        },
+        {
+            "codigo": "JCX6.200X150PTO",
+            "produto": "KIT JANELA 4 FOLHAS MOVEIS E 2 FIXO DE 2,00 X 1,50 PRETO",
+            "valor_bruto": "587,47"
+        },
+        {
+            "codigo": "JCX6.220X150BCO",
+            "produto": "KIT JANELA 4 FOLHAS MOVEIS E 2 FIXO DE 2,20 X 1,50 BRANCO",
+            "valor_bruto": "589,82"
+        },
+        {
+            "codigo": "JCX6.220X150BZE",
+            "produto": "KIT JANELA 4 FOLHAS MOVEIS E 2 FIXO DE 2,20 X 1,50 BRONZE",
+            "valor_bruto": "628,59"
+        },
+        {
+            "codigo": "JCX6.220X150FCO",
+            "produto": "KIT JANELA 4 FOLHAS MOVEIS E 2 FIXO DE 2,20 X 1,50 FOSCO",
+            "valor_bruto": "628,59"
+        },
+        {
+            "codigo": "JCX6.220X150PTO",
+            "produto": "KIT JANELA 4 FOLHAS MOVEIS E 2 FIXO DE 2,20 X 1,50 PRETO",
+            "valor_bruto": "628,59"
+        },
+        {
+            "codigo": "JCX6.240X150BCO",
+            "produto": "KIT JANELA 4 FOLHAS MOVEIS E 2 FIXO DE 2,40 X 1,50 BRANCO",
+            "valor_bruto": "628,41"
+        },
+        {
+            "codigo": "JCX6.240X150BZE",
+            "produto": "KIT JANELA 4 FOLHAS MOVEIS E 2 FIXO DE 2,40 X 1,50 BRONZE",
+            "valor_bruto": "669,72"
+        },
+        {
+            "codigo": "JCX6.240X150FCO",
+            "produto": "KIT JANELA 4 FOLHAS MOVEIS E 2 FIXO DE 2,40 X 1,50 FOSCO",
+            "valor_bruto": "669,72"
+        },
+        {
+            "codigo": "JCX6.240X150PTO",
+            "produto": "KIT JANELA 4 FOLHAS MOVEIS E 2 FIXO DE 2,40 X 1,50 PRETO",
+            "valor_bruto": "669,72"
+        },
+        {
+            "codigo": "JCX6.280X150BCO",
+            "produto": "KIT JANELA 4 FOLHAS MOVEIS E 2 FIXO DE 2,80 X 1,50 BRANCO",
+            "valor_bruto": "705,61"
+        },
+        {
+            "codigo": "JCX6.280X150BZE",
+            "produto": "KIT JANELA 4 FOLHAS MOVEIS E 2 FIXO DE 2,80 X 1,50 BRONZE",
+            "valor_bruto": "752,0"
+        },
+        {
+            "codigo": "JCX6.280X150FCO",
+            "produto": "KIT JANELA 4 FOLHAS MOVEIS E 2 FIXO DE 2,80 X 1,50 FOSCO",
+            "valor_bruto": "752,0"
+        },
+        {
+            "codigo": "JCX6.280X150PTO",
+            "produto": "KIT JANELA 4 FOLHAS MOVEIS E 2 FIXO DE 2,80 X 1,50 PRETO",
+            "valor_bruto": "752,0"
+        },
+        {
+            "codigo": "JCX6.300X150BCO",
+            "produto": "KIT JANELA 4 FOLHAS MOVEIS E 2 FIXO DE 3,00 X 1,50 BRANCO",
+            "valor_bruto": "744,2"
+        },
+        {
+            "codigo": "JCX6.300X150BZE",
+            "produto": "KIT JANELA 4 FOLHAS MOVEIS E 2 FIXO DE 3,00 X 1,50 BRONZE",
+            "valor_bruto": "793,12"
+        },
+        {
+            "codigo": "JCX6.300X150FCO",
+            "produto": "KIT JANELA 4 FOLHAS MOVEIS E 2 FIXO DE 3,00 X 1,50 FOSCO",
+            "valor_bruto": "793,12"
+        },
+        {
+            "codigo": "JCX6.300X200PTO",
+            "produto": "KIT JANELA 4 FOLHAS MOVEIS E 2 FIXO DE 3,00 X 1,50 PRETO",
+            "valor_bruto": "793,12"
+        }
+    ],
+    "KIT PORTA CORRER TOTAL  ": [
+        {
+            "codigo": "PCX2.120X240BCO",
+            "produto": "KIT PORTA 2 FOLHAS MOVEIS DE 1,20 X 2,40 BRANCO",
+            "valor_bruto": "213,06"
+        },
+        {
+            "codigo": "PCX2.120X240BZE",
+            "produto": "KIT PORTA 2 FOLHAS MOVEIS DE 1,20 X 2,40 BRONZE",
+            "valor_bruto": "227,07"
+        },
+        {
+            "codigo": "PCX2.120X240FCO",
+            "produto": "KIT PORTA 2 FOLHAS MOVEIS DE 1,20 X 2,40 FOSCO",
+            "valor_bruto": "227,07"
+        },
+        {
+            "codigo": "PCX2.120X240PTO",
+            "produto": "KIT PORTA 2 FOLHAS MOVEIS DE 1,20 X 2,40 PRETO",
+            "valor_bruto": "227,07"
+        },
+        {
+            "codigo": "PCX2.150X240BCO",
+            "produto": "KIT PORTA 2 FOLHAS MOVEIS DE 1,50 X 2,40 BRANCO",
+            "valor_bruto": "243,42"
+        },
+        {
+            "codigo": "PCX2.150X240BZE",
+            "produto": "KIT PORTA 2 FOLHAS MOVEIS DE 1,50 X 2,40 BRONZE",
+            "valor_bruto": "259,42"
+        },
+        {
+            "codigo": "PCX2.150X240FCO",
+            "produto": "KIT PORTA 2 FOLHAS MOVEIS DE 1,50 X 2,40 FOSCO",
+            "valor_bruto": "259,42"
+        },
+        {
+            "codigo": "PCX2.150X240PTO",
+            "produto": "KIT PORTA 2 FOLHAS MOVEIS DE 1,50 X 2,40 PRETO",
+            "valor_bruto": "259,42"
+        },
+        {
+            "codigo": "PCX2.180X240BCO",
+            "produto": "KIT PORTA 2 FOLHAS MOVEIS DE 1,80 X 2,40 BRANCO",
+            "valor_bruto": "273,75"
+        },
+        {
+            "codigo": "PCX2.180X240BZE",
+            "produto": "KIT PORTA 2 FOLHAS MOVEIS DE 1,80 X 2,40 BRONZE",
+            "valor_bruto": "291,75"
+        },
+        {
+            "codigo": "PCX2.180X240FCO",
+            "produto": "KIT PORTA 2 FOLHAS MOVEIS DE 1,80 X 2,40 FOSCO",
+            "valor_bruto": "291,75"
+        },
+        {
+            "codigo": "PCX2.180X240PTO",
+            "produto": "KIT PORTA 2 FOLHAS MOVEIS DE 1,80 X 2,40 PRETO",
+            "valor_bruto": "291,75"
+        },
+        {
+            "codigo": "PCX2.200X240BCO",
+            "produto": "KIT PORTA 2 FOLHAS MOVEIS DE 2,00 X 2,40 BRANCO",
+            "valor_bruto": "294,01"
+        },
+        {
+            "codigo": "PCX2.200X240BZE",
+            "produto": "KIT PORTA 2 FOLHAS MOVEIS DE 2,00 X 2,40 BRONZE",
+            "valor_bruto": "313,32"
+        },
+        {
+            "codigo": "PCX2.200X240FCO",
+            "produto": "KIT PORTA 2 FOLHAS MOVEIS DE 2,00 X 2,40 FOSCO",
+            "valor_bruto": "313,32"
+        },
+        {
+            "codigo": "PCX2.200X240PTO",
+            "produto": "KIT PORTA 2 FOLHAS MOVEIS DE 2,00 X 2,40 PRETO",
+            "valor_bruto": "313,32"
+        },
+        {
+            "codigo": "PCX3.150X240BCO",
+            "produto": "KIT PORTA 2 FOLHAS MOVEIS E 1 FIXO DE 1,50 X 2,40 BRANCO",
+            "valor_bruto": "275,64"
+        },
+        {
+            "codigo": "PCX3.150X240BZE",
+            "produto": "KIT PORTA 2 FOLHAS MOVEIS E 1 FIXO DE 1,50 X 2,40 BRONZE",
+            "valor_bruto": "293,77"
+        },
+        {
+            "codigo": "PCX3.150X240FCO",
+            "produto": "KIT PORTA 2 FOLHAS MOVEIS E 1 FIXO DE 1,50 X 2,40 FOSCO",
+            "valor_bruto": "293,77"
+        },
+        {
+            "codigo": "PCX3.150X240PTO",
+            "produto": "KIT PORTA 2 FOLHAS MOVEIS E 1 FIXO DE 1,50 X 2,40 PRETO",
+            "valor_bruto": "293,77"
+        },
+        {
+            "codigo": "PCX3.180X240BCO",
+            "produto": "KIT PORTA 2 FOLHAS MOVEIS E 1 FIXO DE 1,80 X 2,40 BRANCO",
+            "valor_bruto": "300,74"
+        },
+        {
+            "codigo": "PCX3.180X240BZE",
+            "produto": "KIT PORTA 2 FOLHAS MOVEIS E 1 FIXO DE 1,80 X 2,40 BRONZE",
+            "valor_bruto": "320,51"
+        },
+        {
+            "codigo": "PCX3.180X240FCO",
+            "produto": "KIT PORTA 2 FOLHAS MOVEIS E 1 FIXO DE 1,80 X 2,40 FOSCO",
+            "valor_bruto": "320,51"
+        },
+        {
+            "codigo": "PCX3.180X240PTO",
+            "produto": "KIT PORTA 2 FOLHAS MOVEIS E 1 FIXO DE 1,80 X 2,40 PRETO",
+            "valor_bruto": "320,51"
+        },
+        {
+            "codigo": "PCX3.200X240BCO",
+            "produto": "KIT PORTA 2 FOLHAS MOVEIS E 1 FIXO DE 2,00 X 2,40 BRANCO",
+            "valor_bruto": "317,52"
+        },
+        {
+            "codigo": "PCX3.200X240BZE",
+            "produto": "KIT PORTA 2 FOLHAS MOVEIS E 1 FIXO DE 2,00 X 2,40 BRONZE",
+            "valor_bruto": "338,39"
+        },
+        {
+            "codigo": "PCX3.200X240FCO",
+            "produto": "KIT PORTA 2 FOLHAS MOVEIS E 1 FIXO DE 2,00 X 2,40 FOSCO",
+            "valor_bruto": "338,39"
+        },
+        {
+            "codigo": "PCX3.200X240PTO",
+            "produto": "KIT PORTA 2 FOLHAS MOVEIS E 1 FIXO DE 2,00 X 2,40 PRETO",
+            "valor_bruto": "338,39"
+        },
+        {
+            "codigo": "PCX3.220X240BCO",
+            "produto": "KIT PORTA 2 FOLHAS MOVEIS E 1 FIXO DE 2,20 X 2,40 BRANCO",
+            "valor_bruto": "334,26"
+        },
+        {
+            "codigo": "PCX3.220X240BZE",
+            "produto": "KIT PORTA 2 FOLHAS MOVEIS E 1 FIXO DE 2,20 X 2,40 BRONZE",
+            "valor_bruto": "356,23"
+        },
+        {
+            "codigo": "PCX3.220X240FCO",
+            "produto": "KIT PORTA 2 FOLHAS MOVEIS E 1 FIXO DE 2,20 X 2,40 FOSCO",
+            "valor_bruto": "356,23"
+        },
+        {
+            "codigo": "PCX3.220X240PTO",
+            "produto": "KIT PORTA 2 FOLHAS MOVEIS E 1 FIXO DE 2,20 X 2,40 PRETO",
+            "valor_bruto": "356,23"
+        },
+        {
+            "codigo": "PCX3.240X240BCO",
+            "produto": "KIT PORTA 2 FOLHAS MOVEIS E 1 FIXO DE 2,40 X 2,40 BRANCO",
+            "valor_bruto": "351,0"
+        },
+        {
+            "codigo": "PCX3.240X240BZE",
+            "produto": "KIT PORTA 2 FOLHAS MOVEIS E 1 FIXO DE 2,40 X 2,40 BRONZE",
+            "valor_bruto": "374,07"
+        },
+        {
+            "codigo": "PCX3.240X240FCO",
+            "produto": "KIT PORTA 2 FOLHAS MOVEIS E 1 FIXO DE 2,40 X 2,40 FOSCO",
+            "valor_bruto": "374,07"
+        },
+        {
+            "codigo": "PCX3.240X240PTO",
+            "produto": "KIT PORTA 2 FOLHAS MOVEIS E 1 FIXO DE 2,40 X 2,40 PRETO",
+            "valor_bruto": "374,07"
+        },
+        {
+            "codigo": "PCX3.280X240BCO",
+            "produto": "KIT PORTA 2 FOLHAS MOVEIS E 1 FIXO DE 2,80 X 2,40 BRANCO",
+            "valor_bruto": "384,47"
+        },
+        {
+            "codigo": "PCX3.280X240BZE",
+            "produto": "KIT PORTA 2 FOLHAS MOVEIS E 1 FIXO DE 2,80 X 2,40 BRONZE",
+            "valor_bruto": "409,74"
+        },
+        {
+            "codigo": "PCX3.280X240FCO",
+            "produto": "KIT PORTA 2 FOLHAS MOVEIS E 1 FIXO DE 2,80 X 2,40 FOSCO",
+            "valor_bruto": "409,74"
+        },
+        {
+            "codigo": "PCX3.280X240PTO",
+            "produto": "KIT PORTA 2 FOLHAS MOVEIS E 1 FIXO DE 2,80 X 2,40 PRETO",
+            "valor_bruto": "409,74"
+        },
+        {
+            "codigo": "PCX3.300X240BCO",
+            "produto": "KIT PORTA 2 FOLHAS MOVEIS E 1 FIXO DE 3,00 X 2,40 BRANCO",
+            "valor_bruto": "401,21"
+        },
+        {
+            "codigo": "PCX3.300X240BZE",
+            "produto": "KIT PORTA 2 FOLHAS MOVEIS E 1 FIXO DE 3,00 X 2,40 BRONZE",
+            "valor_bruto": "427,58"
+        },
+        {
+            "codigo": "PCX3.300X240FCO",
+            "produto": "KIT PORTA 2 FOLHAS MOVEIS E 1 FIXO DE 3,00 X 2,40 FOSCO",
+            "valor_bruto": "427,58"
+        },
+        {
+            "codigo": "PCX3.300X240PTO",
+            "produto": "KIT PORTA 2 FOLHAS MOVEIS E 1 FIXO DE 3,00 X 2,40 PRETO",
+            "valor_bruto": "427,58"
+        },
+        {
+            "codigo": "PCX3.400X240BCO",
+            "produto": "KIT PORTA 2 FOLHAS MOVEIS E 1 FIXO DE 4,00 X 2,40 BRANCO",
+            "valor_bruto": "557,67"
+        },
+        {
+            "codigo": "PCX3.400X240BZE",
+            "produto": "KIT PORTA 2 FOLHAS MOVEIS E 1 FIXO DE 4,00 X 2,40 BRONZE",
+            "valor_bruto": "557,67"
+        },
+        {
+            "codigo": "PCX3.400X240FCO",
+            "produto": "KIT PORTA 2 FOLHAS MOVEIS E 1 FIXO DE 4,00 X 2,40 FOSCO",
+            "valor_bruto": "557,67"
+        },
+        {
+            "codigo": "PCX3.400X240PTO",
+            "produto": "KIT PORTA 2 FOLHAS MOVEIS E 1 FIXO DE 4,00 X 2,40 PRETO",
+            "valor_bruto": "557,67"
+        },
+        {
+            "codigo": "PCX4.150X240BCO",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS DE 1,50 X 2,40 BRANCO",
+            "valor_bruto": "388,67"
+        },
+        {
+            "codigo": "PCX4.150X240BZE",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS DE 1,50 X 2,40 BRONZE",
+            "valor_bruto": "414,22"
+        },
+        {
+            "codigo": "PCX4.150X240FCO",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS DE 1,50 X 2,40 FOSCO",
+            "valor_bruto": "414,22"
+        },
+        {
+            "codigo": "PCX4.150X240PTO",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS DE 1,50 X 2,40 PRETO",
+            "valor_bruto": "414,22"
+        },
+        {
+            "codigo": "PCX4.180X240BCO",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS DE 1,80 X 2,40 BRANCO",
+            "valor_bruto": "457,91"
+        },
+        {
+            "codigo": "PCX4.180X240BZE",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS DE 1,80 X 2,40 BRONZE",
+            "valor_bruto": "488,0"
+        },
+        {
+            "codigo": "PCX4.180X240FCO",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS DE 1,80 X 2,40 FOSCO",
+            "valor_bruto": "488,0"
+        },
+        {
+            "codigo": "PCX4.180X240PTO",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS DE 1,80 X 2,40 PRETO",
+            "valor_bruto": "488,0"
+        },
+        {
+            "codigo": "PCX4.200X240BCO",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS DE 2,00 X 2,40 BRANCO",
+            "valor_bruto": "494,32"
+        },
+        {
+            "codigo": "PCX4.200X240BZE",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS DE 2,00 X 2,40 BRONZE",
+            "valor_bruto": "526,81"
+        },
+        {
+            "codigo": "PCX4.200X240FCO",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS DE 2,00 X 2,40 FOSCO",
+            "valor_bruto": "526,81"
+        },
+        {
+            "codigo": "PCX4.200X240PTO",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS DE 2,00 X 2,40 PRETO",
+            "valor_bruto": "526,81"
+        },
+        {
+            "codigo": "PCX4.220X240BCO",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS DE 2,20 X 2,40 BRANCO",
+            "valor_bruto": "530,76"
+        },
+        {
+            "codigo": "PCX4.220X240BZE",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS DE 2,20 X 2,40 BRONZE",
+            "valor_bruto": "565,64"
+        },
+        {
+            "codigo": "PCX4.220X240FCO",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS DE 2,20 X 2,40 FOSCO",
+            "valor_bruto": "565,64"
+        },
+        {
+            "codigo": "PCX4.220X240PTO",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS DE 2,20 X 2,40 PRETO",
+            "valor_bruto": "565,64"
+        },
+        {
+            "codigo": "PCX4.240X240BCO",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS DE 2,40 X 2,40 BRANCO",
+            "valor_bruto": "567,11"
+        },
+        {
+            "codigo": "PCX4.240X240BZE",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS DE 2,40 X 2,40 BRONZE",
+            "valor_bruto": "604,37"
+        },
+        {
+            "codigo": "PCX4.240X240FCO",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS DE 2,40 X 2,40 FOSCO",
+            "valor_bruto": "604,37"
+        },
+        {
+            "codigo": "PCX4.240X240PTO",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS DE 2,40 X 2,40 PRETO",
+            "valor_bruto": "604,37"
+        },
+        {
+            "codigo": "PCX4.280X240BCO",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS DE 2,80 X 2,40 BRANCO",
+            "valor_bruto": "639,88"
+        },
+        {
+            "codigo": "PCX4.280X240BZE",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS DE 2,80 X 2,40 BRONZE",
+            "valor_bruto": "681,94"
+        },
+        {
+            "codigo": "PCX4.280X240FCO",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS DE 2,80 X 2,40 FOSCO",
+            "valor_bruto": "681,94"
+        },
+        {
+            "codigo": "PCX4.280X240PTO",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS DE 2,80 X 2,40 PRETO",
+            "valor_bruto": "681,94"
+        },
+        {
+            "codigo": "PCX4.300X240BCO",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS DE 3.00 X 2,40 BRANCO",
+            "valor_bruto": "676,3"
+        },
+        {
+            "codigo": "PCX4.300X240BZE",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS DE 3.00 X 2,40 BRONZE",
+            "valor_bruto": "720,74"
+        },
+        {
+            "codigo": "PCX4.300X240FCO",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS DE 3.00 X 2,40 FOSCO",
+            "valor_bruto": "720,74"
+        },
+        {
+            "codigo": "PCX4.300X240PTO",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS DE 3.00 X 2,40 PRETO",
+            "valor_bruto": "720,74"
+        },
+        {
+            "codigo": "PCX4.400X240BCO",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS DE 4,00 X 2,40 BRANCO",
+            "valor_bruto": "914,83"
+        },
+        {
+            "codigo": "PCX4.400X240BZE",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS DE 4,00 X 2,40 BRONZE",
+            "valor_bruto": "914,83"
+        },
+        {
+            "codigo": "PCX5.400X240BCO",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS E 1 FIXO DE 4,00 X 2,40 BRANCO",
+            "valor_bruto": "829,21"
+        },
+        {
+            "codigo": "PCX6.150X240BCO",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS E 2 FIXO DE 1,50 X 2,40 BRANCO",
+            "valor_bruto": "544,35"
+        },
+        {
+            "codigo": "PCX6.150X240BZE",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS E 2 FIXO DE 1,50 X 2,40 BRONZE",
+            "valor_bruto": "580,12"
+        },
+        {
+            "codigo": "PCX6.150X240FCO",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS E 2 FIXO DE 1,50 X 2,40 FOSCO",
+            "valor_bruto": "580,12"
+        },
+        {
+            "codigo": "PCX6.150X240PTO",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS E 2 FIXO DE 1,50 X 2,40 PRETO",
+            "valor_bruto": "580,12"
+        },
+        {
+            "codigo": "PCX6.180X240BCO",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS E 2 FIXO DE 1,80 X 2,40 BRANCO",
+            "valor_bruto": "597,69"
+        },
+        {
+            "codigo": "PCX6.180X240BZE",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS E 2 FIXO DE 1,80 X 2,40 BRONZE",
+            "valor_bruto": "636,97"
+        },
+        {
+            "codigo": "PCX6.180X240FCO",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS E 2 FIXO DE 1,80 X 2,40 FOSCO",
+            "valor_bruto": "636,97"
+        },
+        {
+            "codigo": "PCX6.180X240PTO",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS E 2 FIXO DE 1,80 X 2,40 PRETO",
+            "valor_bruto": "636,97"
+        },
+        {
+            "codigo": "PCX6.200X240BCO",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS E 2 FIXO DE 2,00 X 2,40 BRANCO",
+            "valor_bruto": "635,3"
+        },
+        {
+            "codigo": "PCX6.200X240BZE",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS E 2 FIXO DE 2,00 X 2,40 BRONZE",
+            "valor_bruto": "677,06"
+        },
+        {
+            "codigo": "PCX6.200X240FCO",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS E 2 FIXO DE 2,00 X 2,40 FOSCO",
+            "valor_bruto": "677,06"
+        },
+        {
+            "codigo": "PCX6.200X240PTO",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS E 2 FIXO DE 2,00 X 2,40 PRETO",
+            "valor_bruto": "677,06"
+        },
+        {
+            "codigo": "PCX6.220X240BCO",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS E 2 FIXO DE 2,20 X 2,40 BRANCO",
+            "valor_bruto": "672,98"
+        },
+        {
+            "codigo": "PCX6.220X240BZE",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS E 2 FIXO DE 2,20 X 2,40 BRONZE",
+            "valor_bruto": "717,22"
+        },
+        {
+            "codigo": "PCX6.220X240FCO",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS E 2 FIXO DE 2,20 X 2,40 FOSCO",
+            "valor_bruto": "717,22"
+        },
+        {
+            "codigo": "PCX6.220X240PTO",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS E 2 FIXO DE 2,20 X 2,40 PRETO",
+            "valor_bruto": "717,22"
+        },
+        {
+            "codigo": "PCX6.240X240BCO",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS E 2 FIXO DE 2,40 X 2,40 BRANCO",
+            "valor_bruto": "714,1"
+        },
+        {
+            "codigo": "PCX6.240X240BZE",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS E 2 FIXO DE 2,40 X 2,40 BRONZE",
+            "valor_bruto": "761,04"
+        },
+        {
+            "codigo": "PCX6.240X240FCO",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS E 2 FIXO DE 2,40 X 2,40 FOSCO",
+            "valor_bruto": "761,04"
+        },
+        {
+            "codigo": "PCX6.240X240PTO",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS E 2 FIXO DE 2,40 X 2,40 PRETO",
+            "valor_bruto": "761,04"
+        },
+        {
+            "codigo": "PCX6.280X240BCO",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS E 2 FIXO DE 2,80 X 2,40 BRANCO",
+            "valor_bruto": "840,63"
+        },
+        {
+            "codigo": "PCX6.280X240BZE",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS E 2 FIXO DE 2,80 X 2,40 BRONZE",
+            "valor_bruto": "740,59"
+        },
+        {
+            "codigo": "PCX6.280X240FCO",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS E 2 FIXO DE 2,80 X 2,40 FOSCO",
+            "valor_bruto": "840,63"
+        },
+        {
+            "codigo": "PCX6.280X240PTO",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS E 2 FIXO DE 2,80 X 2,40 PRETO",
+            "valor_bruto": "840,63"
+        },
+        {
+            "codigo": "PCX6.300X240BCO",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS E 2 FIXO DE 3,00 X 2,40 BRANCO",
+            "valor_bruto": "826,87"
+        },
+        {
+            "codigo": "PCX6.300X240BZE",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS E 2 FIXO DE 3,00 X 2,40 BRONZE",
+            "valor_bruto": "881,21"
+        },
+        {
+            "codigo": "PCX6.300X240FCO",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS E 2 FIXO DE 3,00 X 2,40 FOSCO",
+            "valor_bruto": "881,21"
+        },
+        {
+            "codigo": "PCX6.300X240PTO",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS E 2 FIXO DE 3,00 X 2,40 PRETO",
+            "valor_bruto": "881,21"
+        },
+        {
+            "codigo": "PCX6.400X240BCO",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS E 2 FIXO DE 4,00 X 2,40 BRANCO",
+            "valor_bruto": "871,35"
+        },
+        {
+            "codigo": "PCX6.500X240BZE",
+            "produto": "KIT PORTA 4 FOLHAS MOVEIS E 2 FIXO DE 5,00 X 2,40 BRONZE",
+            "valor_bruto": "1064,98"
+        },
+        {
+            "codigo": "PCX7.150X240BCO",
+            "produto": "KIT PORTA 3 FOLHAS MOVEIS E 1 FIXO DE 1,50 X 2,40 BRANCO",
+            "valor_bruto": "620,6"
+        },
+        {
+            "codigo": "PCX7.150X240BZE",
+            "produto": "KIT PORTA 3 FOLHAS MOVEIS E 1 FIXO DE 1,50 X 2,40 BRONZE",
+            "valor_bruto": "661,38"
+        },
+        {
+            "codigo": "PCX7.150X240FCO",
+            "produto": "KIT PORTA 3 FOLHAS MOVEIS E 1 FIXO DE 1,50 X 2,40 FOSCO",
+            "valor_bruto": "661,38"
+        },
+        {
+            "codigo": "PCX7.150X240PTO",
+            "produto": "KIT PORTA 3 FOLHAS MOVEIS E 1 FIXO DE 1,50 X 2,40 PRETO",
+            "valor_bruto": "661,38"
+        },
+        {
+            "codigo": "PCX7.180X240BCO",
+            "produto": "KIT PORTA 3 FOLHAS MOVEIS E 1 FIXO DE 1,80 X 2,40 BRANCO",
+            "valor_bruto": "665,39"
+        },
+        {
+            "codigo": "PCX7.180X240BZE",
+            "produto": "KIT PORTA 3 FOLHAS MOVEIS E 1 FIXO DE 1,80 X 2,40 BRONZE",
+            "valor_bruto": "709,12"
+        },
+        {
+            "codigo": "PCX7.180X240FCO",
+            "produto": "KIT PORTA 3 FOLHAS MOVEIS E 1 FIXO DE 1,80 X 2,40 FOSCO",
+            "valor_bruto": "709,12"
+        },
+        {
+            "codigo": "PCX7.180X240PTO",
+            "produto": "KIT PORTA 3 FOLHAS MOVEIS E 1 FIXO DE 1,80 X 2,40 PRETO",
+            "valor_bruto": "709,12"
+        },
+        {
+            "codigo": "PCX7.200X240BCO",
+            "produto": "KIT PORTA 3 FOLHAS MOVEIS E 1 FIXO DE 2,00 X 2,40 BRANCO",
+            "valor_bruto": "695,05"
+        },
+        {
+            "codigo": "PCX7.200X240BZE",
+            "produto": "KIT PORTA 3 FOLHAS MOVEIS E 1 FIXO DE 2,00 X 2,40 BRONZE",
+            "valor_bruto": "740,73"
+        },
+        {
+            "codigo": "PCX7.200X240FCO",
+            "produto": "KIT PORTA 3 FOLHAS MOVEIS E 1 FIXO DE 2,00 X 2,40 FOSCO",
+            "valor_bruto": "740,73"
+        },
+        {
+            "codigo": "PCX7.200X240PTO",
+            "produto": "KIT PORTA 3 FOLHAS MOVEIS E 1 FIXO DE 2,00 X 2,40 PRETO",
+            "valor_bruto": "740,73"
+        },
+        {
+            "codigo": "PCX7.220X240BCO",
+            "produto": "KIT PORTA 3 FOLHAS MOVEIS E 1 FIXO DE 2,20 X 2,40 BRANCO",
+            "valor_bruto": "728,77"
+        },
+        {
+            "codigo": "PCX7.220X240BZE",
+            "produto": "KIT PORTA 3 FOLHAS MOVEIS E 1 FIXO DE 2,20 X 2,40 BRONZE",
+            "valor_bruto": "776,67"
+        },
+        {
+            "codigo": "PCX7.220X240FCO",
+            "produto": "KIT PORTA 3 FOLHAS MOVEIS E 1 FIXO DE 2,20 X 2,40 FOSCO",
+            "valor_bruto": "776,67"
+        },
+        {
+            "codigo": "PCX7.220X240PTO",
+            "produto": "KIT PORTA 3 FOLHAS MOVEIS E 1 FIXO DE 2,20 X 2,40 PRETO",
+            "valor_bruto": "776,67"
+        },
+        {
+            "codigo": "PCX7.240X240BCO",
+            "produto": "KIT PORTA 3 FOLHAS MOVEIS E 1 FIXO DE 2,40 X 2,40 BRANCO",
+            "valor_bruto": "754,54"
+        },
+        {
+            "codigo": "PCX7.240X240BZE",
+            "produto": "KIT PORTA 3 FOLHAS MOVEIS E 1 FIXO DE 2,40 X 2,40 BRONZE",
+            "valor_bruto": "804,14"
+        },
+        {
+            "codigo": "PCX7.240X240FCO",
+            "produto": "KIT PORTA 3 FOLHAS MOVEIS E 1 FIXO DE 2,40 X 2,40 FOSCO",
+            "valor_bruto": "804,14"
+        },
+        {
+            "codigo": "PCX7.240X240PTO",
+            "produto": "KIT PORTA 3 FOLHAS MOVEIS E 1 FIXO DE 2,40 X 2,40 PRETO",
+            "valor_bruto": "804,14"
+        },
+        {
+            "codigo": "PCX7.280X240BCO",
+            "produto": "KIT PORTA 3 FOLHAS MOVEIS E 1 FIXO DE 2,80 X 2,40 BRANCO",
+            "valor_bruto": "814,06"
+        },
+        {
+            "codigo": "PCX7.280X240BZE",
+            "produto": "KIT PORTA 3 FOLHAS MOVEIS E 1 FIXO DE 2,80 X 2,40 BRONZE",
+            "valor_bruto": "867,58"
+        },
+        {
+            "codigo": "PCX7.280X240FCO",
+            "produto": "KIT PORTA 3 FOLHAS MOVEIS E 1 FIXO DE 2,80 X 2,40 FOSCO",
+            "valor_bruto": "867,58"
+        },
+        {
+            "codigo": "PCX7.280X240PTO",
+            "produto": "KIT PORTA 3 FOLHAS MOVEIS E 1 FIXO DE 2,80 X 2,40 PRETO",
+            "valor_bruto": "867,58"
+        },
+        {
+            "codigo": "PCX7.300X240BCO",
+            "produto": "KIT PORTA 3 FOLHAS MOVEIS E 1 FIXO DE 3,00 X 2,40 BRANCO",
+            "valor_bruto": "843,81"
+        },
+        {
+            "codigo": "PCX7.300X240BZE",
+            "produto": "KIT PORTA 3 FOLHAS MOVEIS E 1 FIXO DE 3,00 X 2,40 BRONZE",
+            "valor_bruto": "899,27"
+        },
+        {
+            "codigo": "PCX7.300X240FCO",
+            "produto": "KIT PORTA 3 FOLHAS MOVEIS E 1 FIXO DE 3,00 X 2,40 FOSCO",
+            "valor_bruto": "899,27"
+        },
+        {
+            "codigo": "PCX7.300X240PTO",
+            "produto": "KIT PORTA 3 FOLHAS MOVEIS E 1 FIXO DE 3,00 X 2,40 PRETO",
+            "valor_bruto": "899,27"
+        },
+        {
+            "codigo": "PCX7.400X240PTO",
+            "produto": "KIT PORTA 3 FOLHAS MOVEIS E 1 FIXO DE 4,00 X 2,40 PRETO",
+            "valor_bruto": "871,35"
+        }
+    ],
+    "KIT PORTA 1F E 2M OU 2F E 2M": [
+        {
+            "codigo": "P1.120X220BCO",
+            "produto": "KIT PORTA 1 FIXA E 1 MOVEL DE 1,20 X 2,20 BRANCO",
+            "valor_bruto": "146,15"
+        },
+        {
+            "codigo": "P1.120X220BZE",
+            "produto": "KIT PORTA 1 FIXA E 1 MOVEL DE 1,20 X 2,20 BRONZE",
+            "valor_bruto": "155,76"
+        },
+        {
+            "codigo": "P1.120X220FCO",
+            "produto": "KIT PORTA 1 FIXA E 1 MOVEL DE 1,20 X 2,20 FOSCO",
+            "valor_bruto": "155,76"
+        },
+        {
+            "codigo": "P1.120X220PTO",
+            "produto": "KIT PORTA 1 FIXA E 1 MOVEL DE 1,20 X 2,20 PRETO",
+            "valor_bruto": "155,76"
+        },
+        {
+            "codigo": "P1.150X220BCO",
+            "produto": "KIT PORTA 1 FIXA E 1 MOVEL DE 1,50 X 2,20 BRANCO",
+            "valor_bruto": "165,2"
+        },
+        {
+            "codigo": "P1.150X220BZE",
+            "produto": "KIT PORTA 1 FIXA E 1 MOVEL DE 1,50 X 2,20 BRONZE",
+            "valor_bruto": "176,06"
+        },
+        {
+            "codigo": "P1.150X220FCO",
+            "produto": "KIT PORTA 1 FIXA E 1 MOVEL DE 1,50 X 2,20 FOSCO",
+            "valor_bruto": "176,06"
+        },
+        {
+            "codigo": "P1.150X220PTO",
+            "produto": "KIT PORTA 1 FIXA E 1 MOVEL DE 1,50 X 2,20 PRETO",
+            "valor_bruto": "176,06"
+        },
+        {
+            "codigo": "P1.180X220BCO",
+            "produto": "KIT PORTA 1 FIXA E 1 MOVEL DE 1,80 X 2,20 BRANCO",
+            "valor_bruto": "184,22"
+        },
+        {
+            "codigo": "P1.180X220BZE",
+            "produto": "KIT PORTA 1 FIXA E 1 MOVEL DE 1,80 X 2,20 BRONZE",
+            "valor_bruto": "196,32"
+        },
+        {
+            "codigo": "P1.180X220FCO",
+            "produto": "KIT PORTA 1 FIXA E 1 MOVEL DE 1,80 X 2,20 FOSCO",
+            "valor_bruto": "196,32"
+        },
+        {
+            "codigo": "P1.180X220PTO",
+            "produto": "KIT PORTA 1 FIXA E 1 MOVEL DE 1,80 X 2,20 PRETO",
+            "valor_bruto": "196,32"
+        },
+        {
+            "codigo": "P1.200X220BCO",
+            "produto": "KIT PORTA 1 FIXA E 1 MOVEL DE 2,00 X 2,20 BRANCO",
+            "valor_bruto": "196,95"
+        },
+        {
+            "codigo": "P1.200X220BZE",
+            "produto": "KIT PORTA 1 FIXA E 1 MOVEL DE 2,00 X 2,20 BRONZE",
+            "valor_bruto": "209,89"
+        },
+        {
+            "codigo": "P1.200X220FCO",
+            "produto": "KIT PORTA 1 FIXA E 1 MOVEL DE 2,00 X 2,20 FOSCO",
+            "valor_bruto": "209,89"
+        },
+        {
+            "codigo": "P1.200X220PTO",
+            "produto": "KIT PORTA 1 FIXA E 1 MOVEL DE 2,00 X 2,20 PRETO",
+            "valor_bruto": "209,89"
+        },
+        {
+            "codigo": "P2.120X240BCO",
+            "produto": "KIT PORTA 1 FIXA E 1 MOVEL DE 1,20 X 2,40 BRANCO",
+            "valor_bruto": "151,31"
+        },
+        {
+            "codigo": "P2.120X240BZE",
+            "produto": "KIT PORTA 1 FIXA E 1 MOVEL DE 1,20 X 2,40 BRONZE",
+            "valor_bruto": "161,26"
+        },
+        {
+            "codigo": "P2.120X240FCO",
+            "produto": "KIT PORTA 1 FIXA E 1 MOVEL DE 1,20 X 2,40 FOSCO",
+            "valor_bruto": "161,26"
+        },
+        {
+            "codigo": "P2.120X240PTO",
+            "produto": "KIT PORTA 1 FIXA E 1 MOVEL DE 1,20 X 2,40 PRETO",
+            "valor_bruto": "161,26"
+        },
+        {
+            "codigo": "P2.150X240BCO",
+            "produto": "KIT PORTA 1 FIXA E 1 MOVEL DE 1,50 X 2,40 BRANCO",
+            "valor_bruto": "170,31"
+        },
+        {
+            "codigo": "P2.150X240BZE",
+            "produto": "KIT PORTA 1 FIXA E 1 MOVEL DE 1,50 X 2,40 BRONZE",
+            "valor_bruto": "181,5"
+        },
+        {
+            "codigo": "P2.150X240FCO",
+            "produto": "KIT PORTA 1 FIXA E 1 MOVEL DE 1,50 X 2,40 FOSCO",
+            "valor_bruto": "181,5"
+        },
+        {
+            "codigo": "P2.150X240PTO",
+            "produto": "KIT PORTA 1 FIXA E 1 MOVEL DE 1,50 X 2,40 PRETO",
+            "valor_bruto": "181,5"
+        },
+        {
+            "codigo": "P2.180X240BCO",
+            "produto": "KIT PORTA 1 FIXA E 1 MOVEL DE 1,80 X 2,40 BRANCO",
+            "valor_bruto": "189,31"
+        },
+        {
+            "codigo": "P2.180X240BZE",
+            "produto": "KIT PORTA 1 FIXA E 1 MOVEL DE 1,80 X 2,40 BRONZE",
+            "valor_bruto": "201,76"
+        },
+        {
+            "codigo": "P2.180X240FCO",
+            "produto": "KIT PORTA 1 FIXA E 1 MOVEL DE 1,80 X 2,40 FOSCO",
+            "valor_bruto": "201,76"
+        },
+        {
+            "codigo": "P2.180X240PTO",
+            "produto": "KIT PORTA 1 FIXA E 1 MOVEL DE 1,80 X 2,40 PRETO",
+            "valor_bruto": "201,76"
+        },
+        {
+            "codigo": "P2.200X240BCO",
+            "produto": "KIT PORTA 1 FIXA E 1 MOVEL DE 2,00 X 2,40 BRANCO",
+            "valor_bruto": "202,01"
+        },
+        {
+            "codigo": "P2.200X240BZE",
+            "produto": "KIT PORTA 1 FIXA E 1 MOVEL DE 2,00 X 2,40 BRONZE",
+            "valor_bruto": "215,3"
+        },
+        {
+            "codigo": "P2.200X240FCO",
+            "produto": "KIT PORTA 1 FIXA E 1 MOVEL DE 2,00 X 2,40 FOSCO",
+            "valor_bruto": "215,3"
+        },
+        {
+            "codigo": "P2.200X240PTO",
+            "produto": "KIT PORTA 1 FIXA E 1 MOVEL DE 2,00 X 2,40 PRETO",
+            "valor_bruto": "215,3"
+        },
+        {
+            "codigo": "P2.220X240BCO",
+            "produto": "KIT PORTA 1 FIXA E 1 MOVEL DE 2,20 X 2,40 BRANCO",
+            "valor_bruto": "222,77"
+        },
+        {
+            "codigo": "P2.220X240BZE",
+            "produto": "KIT PORTA 1 FIXA E 1 MOVEL DE 2,20 X 2,40 BRONZE",
+            "valor_bruto": "237,41"
+        },
+        {
+            "codigo": "P2.220X240FCO",
+            "produto": "KIT PORTA 1 FIXA E 1 MOVEL DE 2,20 X 2,40 FOSCO",
+            "valor_bruto": "237,41"
+        },
+        {
+            "codigo": "P2.220X240PTO",
+            "produto": "KIT PORTA 1 FIXA E 1 MOVEL DE 2,20 X 2,40 PRETO",
+            "valor_bruto": "237,41"
+        },
+        {
+            "codigo": "P3.150X220BCO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 1,50 X 2,20 BRANCO",
+            "valor_bruto": "267,9"
+        },
+        {
+            "codigo": "P3.150X220BZE",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 1,50 X 2,20 BRONZE",
+            "valor_bruto": "285,52"
+        },
+        {
+            "codigo": "P3.150X220FCO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 1,50 X 2,20 FOSCO",
+            "valor_bruto": "285,52"
+        },
+        {
+            "codigo": "P3.150X220PTO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 1,50 X 2,20 PRETO",
+            "valor_bruto": "285,52"
+        },
+        {
+            "codigo": "P3.180X220BCO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 1,80 X 2,20 BRANCO",
+            "valor_bruto": "279,51"
+        },
+        {
+            "codigo": "P3.180X220BZE",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 1,80 X 2,20 BRONZE",
+            "valor_bruto": "297,87"
+        },
+        {
+            "codigo": "P3.180X220FCO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 1,80 X 2,20 FOSCO",
+            "valor_bruto": "297,87"
+        },
+        {
+            "codigo": "P3.180X220PTO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 1,80 X 2,20 PRETO",
+            "valor_bruto": "297,87"
+        },
+        {
+            "codigo": "P3.200X220BCO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 2,00 X 2,20 BRANCO",
+            "valor_bruto": "292,23"
+        },
+        {
+            "codigo": "P3.200X220BZE",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 2,00 X 2,20 BRONZE",
+            "valor_bruto": "311,43"
+        },
+        {
+            "codigo": "P3.200X220FCO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 2,00 X 2,20 FOSCO",
+            "valor_bruto": "311,43"
+        },
+        {
+            "codigo": "P3.200X220PTO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 2,00 X 2,20 PRETO",
+            "valor_bruto": "311,43"
+        },
+        {
+            "codigo": "P3.240X220BCO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 2,40 X 2,20 BRANCO",
+            "valor_bruto": "317,57"
+        },
+        {
+            "codigo": "P3.240X220BZE",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 2,40 X 2,20 BRONZE",
+            "valor_bruto": "338,44"
+        },
+        {
+            "codigo": "P3.240X220FCO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 2,40 X 2,20 FOSCO",
+            "valor_bruto": "338,44"
+        },
+        {
+            "codigo": "P3.240X220PTO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 2,40 X 2,20 PRETO",
+            "valor_bruto": "338,44"
+        },
+        {
+            "codigo": "P3.280X220BCO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 2,80 X 2,20 BRANCO",
+            "valor_bruto": "343,01"
+        },
+        {
+            "codigo": "P3.280X220BZE",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 2,80 X 2,20 BRONZE",
+            "valor_bruto": "365,56"
+        },
+        {
+            "codigo": "P3.280X220FCO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL  DE 2,80 X 2,20 FOSCO",
+            "valor_bruto": "365,56"
+        },
+        {
+            "codigo": "P3.280X220PTO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 2,80 X 2,20 PRETO",
+            "valor_bruto": "365,56"
+        },
+        {
+            "codigo": "P3.300X220BCO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 3,00 X 2,20 BRANCO",
+            "valor_bruto": "355,65"
+        },
+        {
+            "codigo": "P3.300X220BZE",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 3,00 X 2,20 BRONZE",
+            "valor_bruto": "379,02"
+        },
+        {
+            "codigo": "P3.300X220FCO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 3,00 X 2,20 FOSCO",
+            "valor_bruto": "379,02"
+        },
+        {
+            "codigo": "P3.300X220PTO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 3,00 X 2,20 PRETO",
+            "valor_bruto": "379,02"
+        },
+        {
+            "codigo": "P3.350X220BCO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 3,50 X 2,20 BRANCO",
+            "valor_bruto": "387,44"
+        },
+        {
+            "codigo": "P3.350X220BZE",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 3,50 X 2,20 BRONZE",
+            "valor_bruto": "412,9"
+        },
+        {
+            "codigo": "P3.350X220FCO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 3,50 X 2,20 FOSCO",
+            "valor_bruto": "412,9"
+        },
+        {
+            "codigo": "P3.350X220PTO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 3,50 X 2,20 PRETO",
+            "valor_bruto": "412,9"
+        },
+        {
+            "codigo": "P3.380X220BCO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 3,80 X 2,20 BRANCO",
+            "valor_bruto": "406,42"
+        },
+        {
+            "codigo": "P3.380X220BZE",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 3,80 X 2,20 BRONZE",
+            "valor_bruto": "433,13"
+        },
+        {
+            "codigo": "P3.380X220FCO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 3,80 X 2,20 FOSCO",
+            "valor_bruto": "433,13"
+        },
+        {
+            "codigo": "P3.380X220PTO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL  DE 3,80 X 2,20 PRETO",
+            "valor_bruto": "433,13"
+        },
+        {
+            "codigo": "P3.400X220BCO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 4,00 X 2,20 BRANCO",
+            "valor_bruto": "419,13"
+        },
+        {
+            "codigo": "P3.400X220BZE",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 4,00 X 2,20 BRONZE",
+            "valor_bruto": "446,69"
+        },
+        {
+            "codigo": "P3.400X220FCO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 4,00 X 2,20 FOSCO",
+            "valor_bruto": "446,69"
+        },
+        {
+            "codigo": "P3.400X220PTO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 4,00 X 2,20 PRETO",
+            "valor_bruto": "446,69"
+        },
+        {
+            "codigo": "P3.600X220BCO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 6,00 X 2,20 BRANCO",
+            "valor_bruto": "544,41"
+        },
+        {
+            "codigo": "P3.600X220BZE",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 6,00 X 2,20 BRONZE",
+            "valor_bruto": "580,2"
+        },
+        {
+            "codigo": "P3.600X220FCO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 6,00 X 2,20 FOSCO",
+            "valor_bruto": "580,2"
+        },
+        {
+            "codigo": "P3.600X220PTO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 6,00 X 2,20 PRETO",
+            "valor_bruto": "580,2"
+        },
+        {
+            "codigo": "P4.150X240BCO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 1,50 X 2,40 BRANCO",
+            "valor_bruto": "252,13"
+        },
+        {
+            "codigo": "P4.150X240BZE",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 1,50 X 2,40 BRONZE",
+            "valor_bruto": "268,7"
+        },
+        {
+            "codigo": "P4.150X240FCO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 1,50 X 2,40 FOSCO",
+            "valor_bruto": "268,7"
+        },
+        {
+            "codigo": "P4.150X240PTO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 1,50 X 2,40 PRETO",
+            "valor_bruto": "268,7"
+        },
+        {
+            "codigo": "P4.180X240BCO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 1,80 X 2,40 BRANCO",
+            "valor_bruto": "269,79"
+        },
+        {
+            "codigo": "P4.180X240BZE",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 1,80 X 2,40 BRONZE",
+            "valor_bruto": "287,52"
+        },
+        {
+            "codigo": "P4.180X240FCO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 1,80 X 2,40 FOSCO",
+            "valor_bruto": "287,52"
+        },
+        {
+            "codigo": "P4.180X240PTO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 1,80 X 2,40 PRETO",
+            "valor_bruto": "287,52"
+        },
+        {
+            "codigo": "P4.200X240BCO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 2,00 X 2,40 BRANCO",
+            "valor_bruto": "281,48"
+        },
+        {
+            "codigo": "P4.200X240BZE",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 2,00 X 2,40 BRONZE",
+            "valor_bruto": "299,98"
+        },
+        {
+            "codigo": "P4.200X240FCO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 2,00 X 2,40 FOSCO",
+            "valor_bruto": "299,98"
+        },
+        {
+            "codigo": "P4.200X240PTO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 2,00 X 2,40 PRETO",
+            "valor_bruto": "299,98"
+        },
+        {
+            "codigo": "P4.240X240BCO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 2,40 X 2,40 BRANCO",
+            "valor_bruto": "306,54"
+        },
+        {
+            "codigo": "P4.240X240BZE",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 2,40 X 2,40 BRONZE",
+            "valor_bruto": "326,7"
+        },
+        {
+            "codigo": "P4.240X240FCO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 2,40 X 2,40 FOSCO",
+            "valor_bruto": "326,7"
+        },
+        {
+            "codigo": "P4.240X240PTO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 2,40 X 2,40 PRETO",
+            "valor_bruto": "326,7"
+        },
+        {
+            "codigo": "P4.280X240BCO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 2,80 X 2,40 BRANCO",
+            "valor_bruto": "328,5"
+        },
+        {
+            "codigo": "P4.280X240BZE",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 2,80 X 2,40 BRONZE",
+            "valor_bruto": "350,09"
+        },
+        {
+            "codigo": "P4.280X240FCO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 2,80 X 2,40 FOSCO",
+            "valor_bruto": "350,09"
+        },
+        {
+            "codigo": "P4.280X240PTO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 2,80 X 2,40 PRETO",
+            "valor_bruto": "350,09"
+        },
+        {
+            "codigo": "P4.300X240BCO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 3,00 X 2,40 BRANCO",
+            "valor_bruto": "340,28"
+        },
+        {
+            "codigo": "P4.300X240BZE",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 3,00 X 2,40 BRONZE",
+            "valor_bruto": "362,64"
+        },
+        {
+            "codigo": "P4.300X240FCO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 3,00 X 2,40 FOSCO",
+            "valor_bruto": "362,64"
+        },
+        {
+            "codigo": "P4.300X240PTO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 3,00 X 2,40 PRETO",
+            "valor_bruto": "362,64"
+        },
+        {
+            "codigo": "P4.350X240BCO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 3,50 X 2,40 BRANCO",
+            "valor_bruto": "369,64"
+        },
+        {
+            "codigo": "P4.350X240BZE",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 3,50 X 2,40 BRONZE",
+            "valor_bruto": "393,93"
+        },
+        {
+            "codigo": "P4.350X240FCO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 3,50 X 2,40 FOSCO",
+            "valor_bruto": "393,93"
+        },
+        {
+            "codigo": "P4.350X240PTO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 3,50 X 2,40 PRETO",
+            "valor_bruto": "393,93"
+        },
+        {
+            "codigo": "P4.380X240BCO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 3,80 X 2,40 BRANCO",
+            "valor_bruto": "414,37"
+        },
+        {
+            "codigo": "P4.380X240BZE",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 3,80 X 2,40 BRONZE",
+            "valor_bruto": "414,37"
+        },
+        {
+            "codigo": "P4.380X240FCO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 3,80 X 2,40 FOSCO",
+            "valor_bruto": "414,37"
+        },
+        {
+            "codigo": "P4.380X240PTO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 3,80 X 2,40 PRETO",
+            "valor_bruto": "414,37"
+        },
+        {
+            "codigo": "P4.400X240BCO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 4,00 X 2,40 BRANCO",
+            "valor_bruto": "400,5"
+        },
+        {
+            "codigo": "P4.400X240BZE",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 4,00 X 2,40 BRONZE",
+            "valor_bruto": "426,83"
+        },
+        {
+            "codigo": "P4.400X240FCO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 4,00 X 2,40 FOSCO",
+            "valor_bruto": "446,83"
+        },
+        {
+            "codigo": "P4.400X240PTO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 4,00 X 2,40 PRETO",
+            "valor_bruto": "426,83"
+        },
+        {
+            "codigo": "P4.450X240BCO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 4,50 X 2,40 BRANCO",
+            "valor_bruto": "456,92"
+        },
+        {
+            "codigo": "P4.450X240BZE",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 4,50 X 2,40 BRONZE",
+            "valor_bruto": "456,92"
+        },
+        {
+            "codigo": "P4.450X240PTO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 4,50 X 2,40 PRETO",
+            "valor_bruto": "456,92"
+        },
+        {
+            "codigo": "P4.600X240BCO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 6,00 X 2,40 BRANCO",
+            "valor_bruto": "518,01"
+        },
+        {
+            "codigo": "P4.600X240BZE",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL  DE 6,00 X 2,40 BRONZE",
+            "valor_bruto": "552,06"
+        },
+        {
+            "codigo": "P4.600X240FCO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 6,00 X 2,40 FOSCO",
+            "valor_bruto": "552,06"
+        },
+        {
+            "codigo": "P4.600X240PTO",
+            "produto": "KIT PORTA 2 FIXA E 2 MOVEL DE 6,00 X 2,40 PRETO",
+            "valor_bruto": "552,06"
+        }
+    ],
+    "KIT JANELA 1F E 2M OU 2F E 2M": [
+        {
+            "codigo": "J1.120X150BCO",
+            "produto": "KIT JANELA 1 FIXA E 1 MOVEL DE 1,20 X 1,50 BRANCO",
+            "valor_bruto": "113,07"
+        },
+        {
+            "codigo": "J1.120X150BZE",
+            "produto": "KIT JANELA 1 FIXA E 1 MOVEL DE 1,20 X 1,50 BRONZE",
+            "valor_bruto": "120,5"
+        },
+        {
+            "codigo": "J1.120X150FCO",
+            "produto": "KIT JANELA 1 FIXA E 1 MOVEL DE 1,20 X 1,50 FOSCO",
+            "valor_bruto": "120,5"
+        },
+        {
+            "codigo": "J1.120X150PTO",
+            "produto": "KIT JANELA 1 FIXA E 1 MOVEL DE 1,20 X 1,50 PRETO",
+            "valor_bruto": "120,5"
+        },
+        {
+            "codigo": "J1.150X150BCO",
+            "produto": "KIT JANELA 1 FIXA E 1 MOVEL DE 1,50 X 1,50 BRANCO",
+            "valor_bruto": "155,76"
+        },
+        {
+            "codigo": "J1.150X150BZE",
+            "produto": "KIT JANELA 1 FIXA E 1 MOVEL DE 1,50 X 1,50 BRONZE",
+            "valor_bruto": "155,76"
+        },
+        {
+            "codigo": "J1.150X150FCO",
+            "produto": "KIT JANELA 1 FIXA E 1 MOVEL DE 1,50 X 1,50 FOSCO",
+            "valor_bruto": "155,76"
+        },
+        {
+            "codigo": "J1.150X150PTO",
+            "produto": "KIT JANELA 1 FIXA E 1 MOVEL DE 1,50 X 1,50 PRETO",
+            "valor_bruto": "155,76"
+        },
+        {
+            "codigo": "J1.180X150BCO",
+            "produto": "KIT JANELA 1 FIXA E 1 MOVEL DE 1,80 X 1,50 BRANCO",
+            "valor_bruto": "165,2"
+        },
+        {
+            "codigo": "J1.180X150BZE",
+            "produto": "KIT JANELA 1 FIXA E 1 MOVEL DE 1,80 X 1,50 BRONZE",
+            "valor_bruto": "176,06"
+        },
+        {
+            "codigo": "J1.180X150FCO",
+            "produto": "KIT JANELA 1 FIXA E 1 MOVEL DE 1,80 X 1,50 FOSCO",
+            "valor_bruto": "176,06"
+        },
+        {
+            "codigo": "J1.180X150PTO",
+            "produto": "KIT JANELA 1 FIXA E 1 MOVEL DE 1,80 X 1,50 PRETO",
+            "valor_bruto": "176,06"
+        },
+        {
+            "codigo": "J1.200X150BCO",
+            "produto": "KIT JANELA 1 FIXA E 1 MOVEL DE 2,00 X 1,50 BRANCO",
+            "valor_bruto": "177,87"
+        },
+        {
+            "codigo": "J1.200X150BZE",
+            "produto": "KIT JANELA 1 FIXA E 1 MOVEL DE 2,00 X 1,50 BRONZE",
+            "valor_bruto": "189,55"
+        },
+        {
+            "codigo": "J1.200X150FCO",
+            "produto": "KIT JANELA 1 FIXA E 1 MOVEL DE 2,00 X 1,50 FOSCO",
+            "valor_bruto": "189,55"
+        },
+        {
+            "codigo": "J1.200X150PTO",
+            "produto": "KIT JANELA 1 FIXA E 1 MOVEL DE 2,00 X 1,50 PRETO",
+            "valor_bruto": "189,55"
+        },
+        {
+            "codigo": "J2.150X150BCO",
+            "produto": "KIT JANELA 2 FIXA E 2 MOVEL DE 1,50 X 1,50 BRANCO",
+            "valor_bruto": "205,38"
+        },
+        {
+            "codigo": "J2.150X150BZE",
+            "produto": "KIT JANELA 2 FIXA E 2 MOVEL DE 1,50 X 1,50 BRONZE",
+            "valor_bruto": "218,87"
+        },
+        {
+            "codigo": "J2.150X150FCO",
+            "produto": "KIT JANELA 2 FIXA E 2 MOVEL DE 1,50 X 1,50 FOSCO",
+            "valor_bruto": "218,87"
+        },
+        {
+            "codigo": "J2.150X150PTO",
+            "produto": "KIT JANELA 2 FIXA E 2 MOVEL DE 1,50 X 1,50 PRETO",
+            "valor_bruto": "218,87"
+        },
+        {
+            "codigo": "J2.180X150BCO",
+            "produto": "KIT JANELA 2 FIXA E 2 MOVEL DE 1,80 X 1,50 BRANCO",
+            "valor_bruto": "242,9"
+        },
+        {
+            "codigo": "J2.180X150BZE",
+            "produto": "KIT JANELA 2 FIXA E 2 MOVEL DE 1,80 X 1,50 BRONZE",
+            "valor_bruto": "242,91"
+        },
+        {
+            "codigo": "J2.180X150FCO",
+            "produto": "KIT JANELA 2 FIXA E 2 MOVEL DE 1,80 X 1,50 FOSCO",
+            "valor_bruto": "242,91"
+        },
+        {
+            "codigo": "J2.180X150PTO",
+            "produto": "KIT JANELA 2 FIXA E 2 MOVEL DE 1,80 X 1,50 PRETO",
+            "valor_bruto": "242,91"
+        },
+        {
+            "codigo": "J2.200X150BCO",
+            "produto": "KIT JANELA 2 FIXA E 2 MOVEL DE 2,00 X 1,50 BRANCO",
+            "valor_bruto": "242,92"
+        },
+        {
+            "codigo": "J2.200X150BZE",
+            "produto": "KIT JANELA 2 FIXA E 2 MOVEL  DE 2,00 X 1,50 BRONZE",
+            "valor_bruto": "258,89"
+        },
+        {
+            "codigo": "J2.200X150FCO",
+            "produto": "KIT JANELA 2 FIXA E 2 MOVEL  DE 2,00 X 1,50 FOSCO",
+            "valor_bruto": "258,89"
+        },
+        {
+            "codigo": "J2.200X150PTO",
+            "produto": "KIT JANELA 2 FIXA E 2 MOVEL DE 2,00 X 1,50 PRETO",
+            "valor_bruto": "258,89"
+        },
+        {
+            "codigo": "J2.220X150BCO",
+            "produto": "KIT JANELA 2 FIXA E 2 MOVEL DE 2,20 X 1,50 BRANCO",
+            "valor_bruto": "257,95"
+        },
+        {
+            "codigo": "J2.220X150BZE",
+            "produto": "KIT JANELA 2 FIXA E 2 MOVEL DE 2,20 X 1,50 BRONZE",
+            "valor_bruto": "274,9"
+        },
+        {
+            "codigo": "J2.220X150FCO",
+            "produto": "KIT JANELA 2 FIXA E 2 MOVEL DE 2,20 X 1,50 FOSCO",
+            "valor_bruto": "274,9"
+        },
+        {
+            "codigo": "J2.220X150PTO",
+            "produto": "KIT JANELA 2 FIXA E 2 MOVEL DE 2,20 X 1,50 PRETO",
+            "valor_bruto": "274,9"
+        },
+        {
+            "codigo": "J2.250X150BCO",
+            "produto": "KIT JANELA 2 FIXA E 2 MOVEL DE 2,50 X 1,50 BRANCO",
+            "valor_bruto": "280,48"
+        },
+        {
+            "codigo": "J2.250X150BZE",
+            "produto": "KIT JANELA 2 FIXA E 2 MOVEL DE 2,50 X 1,50 BRONZE",
+            "valor_bruto": "298,92"
+        },
+        {
+            "codigo": "J2.250X150FCO",
+            "produto": "KIT JANELA 2 FIXA E 2 MOVEL DE 2,50 X 1,50 FOSCO",
+            "valor_bruto": "298,92"
+        },
+        {
+            "codigo": "J2.250X150PTO",
+            "produto": "KIT JANELA 2 FIXA E 2 MOVEL DE 2,50 X 1,50 PRETO",
+            "valor_bruto": "298,92"
+        },
+        {
+            "codigo": "J2.280X150BCO",
+            "produto": "KIT JANELA 2 FIXA E 2 MOVEL DE 2,80 X 1,50 BRANCO",
+            "valor_bruto": "302,97"
+        },
+        {
+            "codigo": "J2.280X150BZE",
+            "produto": "KIT JANELA 2 FIXA E 2 MOVEL DE 2,80 X 1,50 BRONZE",
+            "valor_bruto": "322,87"
+        },
+        {
+            "codigo": "J2.280X150FCO",
+            "produto": "KIT JANELA 2 FIXA E 2 MOVEL DE 2,80 X 1,50 FOSCO",
+            "valor_bruto": "322,87"
+        },
+        {
+            "codigo": "J2.280X150PTO",
+            "produto": "KIT JANELA 2 FIXA E 2 MOVEL DE 2,80 X 1,50 PRETO",
+            "valor_bruto": "322,87"
+        },
+        {
+            "codigo": "J2.300X150BCO",
+            "produto": "KIT JANELA 2 FIXA E 2 MOVEL DE 3,00 X 1,50 BRANCO",
+            "valor_bruto": "318,0"
+        },
+        {
+            "codigo": "J2.300X150BZE",
+            "produto": "KIT JANELA 2 FIXA E 2 MOVEL DE 3,00 X 1,50 BRONZE",
+            "valor_bruto": "338,9"
+        },
+        {
+            "codigo": "J2.300X150FCO",
+            "produto": "KIT JANELA 2 FIXA E 2 MOVEL DE 3,00 X 1,50 FOSCO",
+            "valor_bruto": "338,9"
+        },
+        {
+            "codigo": "J2.300X150PTO",
+            "produto": "KIT JANELA 2 FIXA E 2 MOVEL DE 3,00 X 1,50 PRETO",
+            "valor_bruto": "338,9"
+        },
+        {
+            "codigo": "J3.150X200BCO",
+            "produto": "KIT JANELA 2 FIXA E 2 MOVEL DE 1,50 X 2,00 BRANCO",
+            "valor_bruto": "231,75"
+        },
+        {
+            "codigo": "J3.150X200BZE",
+            "produto": "KIT JANELA 2 FIXA E 2 MOVEL DE 1,50 X 2,00 BRONZE",
+            "valor_bruto": "246,97"
+        },
+        {
+            "codigo": "J3.150X200FCO",
+            "produto": "KIT JANELA 2 FIXA E 2 MOVEL DE 1,50 X 2,00 FOSCO",
+            "valor_bruto": "246,97"
+        },
+        {
+            "codigo": "J3.150X200PTO",
+            "produto": "KIT JANELA 2 FIXA E 2 MOVEL DE 1,50 X 2,00 PRETO",
+            "valor_bruto": "246,97"
+        },
+        {
+            "codigo": "J3.180X200BCO",
+            "produto": "KIT JANELA 2 FIXA E 2 MOVEL DE 1,80 X 2,00 BRANCO",
+            "valor_bruto": "254,26"
+        },
+        {
+            "codigo": "J3.180X200BZE",
+            "produto": "KIT JANELA 2 FIXA E 2 MOVEL DE 1,80 X 2,00 BRONZE",
+            "valor_bruto": "284,35"
+        },
+        {
+            "codigo": "J3.180X200FCO",
+            "produto": "KIT JANELA 2 FIXA E 2 MOVEL DE 1,80 X 2,00 FOSCO",
+            "valor_bruto": "284,35"
+        },
+        {
+            "codigo": "J3.180X200PTO",
+            "produto": "KIT JANELA 2 FIXA E 2 MOVEL DE 1,80 X 2,00 PRETO",
+            "valor_bruto": "284,35"
+        },
+        {
+            "codigo": "J3.200X200BCO",
+            "produto": "KIT JANELA 2 FIXA E 2 MOVEL DE 2,00 X 2,00 BRANCO",
+            "valor_bruto": "282,59"
+        },
+        {
+            "codigo": "J3.200X200BZE",
+            "produto": "KIT JANELA 2 FIXA E 2 MOVEL DE 2,00 X 2,00 BRONZE",
+            "valor_bruto": "301,18"
+        },
+        {
+            "codigo": "J3.200X200FCO",
+            "produto": "KIT JANELA 2 FIXA E 2 MOVEL DE 2,00 X 2,00 FOSCO",
+            "valor_bruto": "301,18"
+        },
+        {
+            "codigo": "J3.200X200PTO",
+            "produto": "KIT JANELA 2 FIXA E 2 MOVEL DE 2,00 X 2,00 PRETO",
+            "valor_bruto": "301,18"
+        },
+        {
+            "codigo": "J3.220X200BCO",
+            "produto": "KIT JANELA 2 FIXA E 2 MOVEL DE 2,20 X 2,00 BRANCO",
+            "valor_bruto": "299,19"
+        },
+        {
+            "codigo": "J3.220X200BZE",
+            "produto": "KIT JANELA 2 FIXA E 2 MOVEL DE 2,20 X 2,00 BRONZE",
+            "valor_bruto": "318,85"
+        },
+        {
+            "codigo": "J3.220X200FCO",
+            "produto": "KIT JANELA 2 FIXA E 2 MOVEL DE 2,20 X 2,00 FOSCO",
+            "valor_bruto": "318,85"
+        },
+        {
+            "codigo": "J3.220X200PTO",
+            "produto": "KIT JANELA 2 FIXA E 2 MOVEL DE 2,20 X 2,00 PRETO",
+            "valor_bruto": "318,85"
+        },
+        {
+            "codigo": "J3.240X200BCO",
+            "produto": "KIT JANELA 2 FIXA E 2 MOVEL DE 2,40 X 2,00 BRANCO",
+            "valor_bruto": "306,75"
+        },
+        {
+            "codigo": "J3.240X200BZE",
+            "produto": "KIT JANELA 2 FIXA E 2 MOVEL DE 2,40 X 2,00 BRONZE",
+            "valor_bruto": "326,92"
+        },
+        {
+            "codigo": "J3.240X200FCO",
+            "produto": "KIT JANELA 2 FIXA E 2 MOVEL DE 2,40 X 2,00 FOSCO",
+            "valor_bruto": "326,92"
+        },
+        {
+            "codigo": "J3.240X200PTO",
+            "produto": "KIT JANELA 2 FIXA E 2 MOVEL DE 2,40 X 2,00 PRETO",
+            "valor_bruto": "326,92"
+        },
+        {
+            "codigo": "J3.280X200BCO",
+            "produto": "KIT JANELA 2 FIXA E 2 MOVEL DE 2,80 X 2,00 BRANCO",
+            "valor_bruto": "329,3"
+        },
+        {
+            "codigo": "J3.280X200BZE",
+            "produto": "KIT JANELA 2 FIXA E 2 MOVEL DE 2,80 X 2,00 BRONZE",
+            "valor_bruto": "350,94"
+        },
+        {
+            "codigo": "J3.280X200FCO",
+            "produto": "KIT JANELA 2 FIXA E 2 MOVEL DE 2,80 X 2,00 FOSCO",
+            "valor_bruto": "350,94"
+        },
+        {
+            "codigo": "J3.280X200PTO",
+            "produto": "KIT JANELA 2 FIXA E 2 MOVEL DE 2,80 X 2,00 PRETO",
+            "valor_bruto": "350,94"
+        },
+        {
+            "codigo": "J3.300X200BCO",
+            "produto": "KIT JANELA 2 FIXA E 2 MOVEL DE 3,00 X 2,00 BRANCO",
+            "valor_bruto": "344,33"
+        },
+        {
+            "codigo": "J3.300X200BZE",
+            "produto": "KIT JANELA 2 FIXA E 2 MOVEL DE 3,00 X 2,00 BRONZE",
+            "valor_bruto": "366,95"
+        },
+        {
+            "codigo": "J3.300X200FCO",
+            "produto": "KIT JANELA 2 FIXA E 2 MOVEL DE 3,00 X 2,00 FOSCO",
+            "valor_bruto": "366,95"
+        },
+        {
+            "codigo": "J3.300X200PTO",
+            "produto": "KIT JANELA 2 FIXA E 2 MOVEL DE 3,00 X 2,00 PRETO",
+            "valor_bruto": "366,95"
+        },
+        {
+            "codigo": "J4.3.80X1,80PTO",
+            "produto": "KIT JANELA 4 FOLHAS PRETO",
+            "valor_bruto": "480,53"
+        },
+        {
+            "codigo": "J4.4.00X1,80PTO",
+            "produto": "KIT JANELA 4 FOLHAS PRETO",
+            "valor_bruto": "505,81"
+        }
+    ]
+}
